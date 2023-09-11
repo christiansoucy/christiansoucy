@@ -1,5 +1,11 @@
 <h1>Welcome, My name is Christian, an <a href="https://linkedin.com/in/csoucy714/">Aspiring Cybersecurity Professional</h1>
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Building a SOC and Honeynet in Azure</b>
+
+
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
