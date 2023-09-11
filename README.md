@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Building a SOC and Honeynet in Azure</b>
+-.[Building a SOC and Honeynet in Azure](https://github.com/christiansoucy/honeynet-soc-azure)
 
 
 
