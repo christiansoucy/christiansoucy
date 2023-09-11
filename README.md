@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christian, an <a href="https://linkedin.com/in/csoucy714/">Aspiring Cybersecurity Professional</h1>
+<h1>Welcome, My name is Christian, an <a href="https://linkedin.com/in/csoucy714/">Aspiring Cybersecurity Professional</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
