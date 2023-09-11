@@ -1,6 +1,6 @@
 <h1>Welcome, My name is Christian, an <a href="https://linkedin.com/in/csoucy714/">Aspiring Cybersecurity Professional</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>Cybersecurity Projects:</h2>
 
 [Honeynet and SOC Built in Microsoft Azure](https://github.com/christiansoucy/honeynet-soc-azure)
 
