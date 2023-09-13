@@ -1,4 +1,4 @@
-<h1>Welcome, My name is Christian, an <a href="https://linkedin.com/in/csoucy714/">Aspiring Cybersecurity Professional</h1>
+<h1>Welcome, My name is Christian, a <a href="https://linkedin.com/in/csoucy714/">Cybersecurity Professional</h1>
 
 <h2>Cybersecurity Projects:</h2>
 
