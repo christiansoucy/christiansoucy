@@ -2,7 +2,9 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-[Honeynet and SOC Built in Microsoft Azure](https://github.com/christiansoucy/honeynet-soc-azure)
+- [Honeynet and SOC Built in Microsoft Azure](https://github.com/christiansoucy/honeynet-soc-azure)
+- [Honeynet and SOC Built in Microsoft Azure](https://github.com/christiansoucy/honeynet-soc-azure)
+
 
 
 
