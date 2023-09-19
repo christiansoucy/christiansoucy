@@ -3,7 +3,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - [Honeynet and SOC Built in Microsoft Azure](https://github.com/christiansoucy/honeynet-soc-azure)
-- [End Point Detection and Response](https://github.com/christiansoucy/vmare-limacharlie)
+- [Endpoint Detection and Response Built in VMware](https://github.com/christiansoucy/vmare-limacharlie)
 
 
 
