@@ -8,7 +8,7 @@
 
 
 
-<h2>Information Technology Projects:</h2>
+<h2>IT Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites, Installation, Post Install Setup, and Ticket Lifecycle](https://github.com/christiansoucy/osticket-prereq)
